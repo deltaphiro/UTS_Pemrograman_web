@@ -1,0 +1,30 @@
+
+.content{
+    height: 508px;
+    margin: 0px;
+    padding: 50px;
+}
+
+.content .cont-1{
+    float: left;
+    width: 50%;
+}
+
+.content .cont-1 p{
+    font-family: 'Roboto';
+    padding: 40px 40px 141px 149px;
+}
+
+.content .cont-2{
+    float: right;
+    width: 50%;
+}
+
+.content .cont-2 img{
+    width: 434px;
+    height: 434px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 41px;
+    padding-bottom: 41px;
+}
