@@ -24,7 +24,6 @@ body, html{
   padding: 0;
   max-width: 100%;
 }
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700;900&display=swap");
 .logo-text {
   text-align: left;
   vertical-align: middle;
